@@ -1,1 +1,2 @@
-"# Dev�loppement de application par l'internet des choses" 
+# Devéloppement d'application pour l'internet des choses. 
+## Senai CTAI- Florianópolis, Santa Catarina, Brésil.
